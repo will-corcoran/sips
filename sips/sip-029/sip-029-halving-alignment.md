@@ -33,7 +33,7 @@ This SIP proposes modifying the Stacks token emission schedule, with the intent 
 
 1. sBTC’s success hinges on its liquidity. Delaying the current halvening schedule helps maintain steady PoX rewards through its initial launch, ensuring that early sBTC adopters receive a BTC yield which attracts both liquidity and developer talent. [2]
 
-2. Nakamoto signers validate, sequence, and sign Stacks blocks in exchange for PoX rewards. To avoid disrupting the incentive structure shortly after Nakamoto’s launch, a predictable and stable PoX yield is necessary to retain high-quality participation.
+2. Nakamoto signers validate, sequence, and sign Stacks blocks in exchange for PoX rewards. To avoid disrupting the incentive structure shortly after Nakamoto’s launch, a predictable and stable PoX yield is necessary to retain high-quality participation. [4]
 
 3. As a side effect of this proposal, Stacks’ halvening schedule would align with Bitcoin's and serve to strengthen the Bitcoin-Stacks connection by providing a more predictable token emission schedule for both miners and users. [2]
 
@@ -167,5 +167,7 @@ NOTE: consider copying the reports locally in the PR (particularly the spreadshe
 [2] "Halving Proposals", 7th Avenue Group, November 2023. Available at https://stx.is/emissions-report-2 [Verified 31 October 2024]
 
 [3] "STX Halving Model", 7th Avenue Group, November 2023. Available at https://docs.google.com/spreadsheets/d/1DiUv-Z8fENKT2gTniYX0DrNyQYl8ZZTsvj-ZhR9S75g/edit?gid=1943414414#gid=1943414414 [Verified 31 October 2024]
+
+[4] SIP-021. https://github.com/stacksgov/sips/blob/main/sips/sip-021/sip-021-nakamoto.md
 
 
